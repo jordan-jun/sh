@@ -19,7 +19,7 @@
 
 notify_url="https://api.telegram.org/bot901901887:AAFEGjmfr6Lk0YK4GrzQXKQd8B6O0aK5wFs/sendMessage"
 chats_id="-360758147"
-max=80
+max=8
 alert=n
 clear_alert=n
 temp_file=/tmp/check-disk.txt
